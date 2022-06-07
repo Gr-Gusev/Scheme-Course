@@ -1,0 +1,9 @@
+Test text starts with word test.
+Therefor, it is text starts with qq?
+Test text starts without phrase 
+with any message.
+It should starts with qq or word test.
+It can repeat can repeat
+can repeat can repeat!
+But also there is no any message.
+Really no any message.

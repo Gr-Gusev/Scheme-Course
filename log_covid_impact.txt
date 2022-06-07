@@ -1,0 +1,46 @@
+> (train! "covid_impact.txt" Dataset)
+> (visit-doctor-v2 'stop 3)
+Next!
+Who are you?
+**Bob
+Hello, bob!
+What seems to be the trouble?
+**My study
+The first cases of the coronavirus disease 2019 were reported in december 2019 in china, and by january 2020 a novel coronavirus was clearly identified.
+**Test message
+Health-Care workers are another segment of population particularly affected by stress.
+**Test covid
+This increased attention might help in managing the psychological effects of the pandemic while respondents from china suffer the least with regards to psychopathological disorders compared to those ones excessively use or do not use social networks at all.
+**Pandemic! Fear! Panic..
+Why do you think that fear?
+**Tesing the program
+Even considering the scores regarding depression and anxiety, italy is the worst affected country while, according to our research, those individuals who obtain their information from friends and family to those ones excessively use or do not use social networks at all.
+**depression and anxiety
+Indeed, empathy defined as the ability to understand and share the feelings of another involves several elements, such as distress sale of assets, predatory loans or child labour.
+**What about depression?
+This increased attention might help in managing the pandemic had different consequences on individuals, according to our research, those individuals who obtain their information from friends and family to those ones who only search for information about the pandemic situation are associated to higher scores on the stress, depression and ptsd scales compared to those ones who moderately use social networks at all.
+**So long answer
+Earlier you said that test covid.
+**Go straight
+On the other hand they also consider an avoidant style as a protective one, differently from anxious style.
+**You have incoherent speech
+Earlier you said that panic.
+**Again
+Health professionals also lived live in daily life a traumatic condition called secondary traumatic stress disorder, burnout syndrome, physical and emotional exhaustion, depersonalization, and dissociation.
+**emotional exhaustion
+During sars, up to 50% of health-care professionals suffered from acute psychological stress, exhaustion, and post-traumatic stress, caused by the fear of contracting the virus.
+**Test word virus pandemic covid
+Please continue...
+**stress, depression, exhaustion
+During sars, up to 50% of health-care professionals suffered from acute psychological stress, exhaustion, and post-traumatic symptoms because they are more sensitive to stress.
+**Hah
+A certain correlation is therefore confirmed between negative affectivity, levels of awareness, coping strategies and psychological impact of the quarantine.
+**Goodbye
+Goodbye, bob!
+See you next week.
+
+Next!
+Who are you?
+**stop
+Time to go home.
+> 

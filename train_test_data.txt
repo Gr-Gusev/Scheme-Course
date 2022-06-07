@@ -1,0 +1,295 @@
+n-gram-table
+n-gram-list 0 
+n-gram
+really no any 
+1
+pred-words-list
+end-of-word-list
+succ-words-list
+message 1
+end-of-word-list
+n-gram
+but also there 
+1
+pred-words-list
+end-of-word-list
+succ-words-list
+is 1
+end-of-word-list
+n-gram
+it can repeat 
+1
+pred-words-list
+end-of-word-list
+succ-words-list
+can 1
+end-of-word-list
+n-gram
+it should starts 
+1
+pred-words-list
+end-of-word-list
+succ-words-list
+with 1
+end-of-word-list
+n-gram
+therefor , it 
+1
+pred-words-list
+end-of-word-list
+succ-words-list
+is 1
+end-of-word-list
+n-gram
+test text starts 
+2
+pred-words-list
+end-of-word-list
+succ-words-list
+without 1
+with 1
+end-of-word-list
+n-gram-list-end 
+n-gram-list 1 
+n-gram
+no any message 
+2
+pred-words-list
+really 1
+is 1
+end-of-word-list
+succ-words-list
+. 2
+end-of-word-list
+n-gram
+is no any 
+1
+pred-words-list
+there 1
+end-of-word-list
+succ-words-list
+message 1
+end-of-word-list
+n-gram
+there is no 
+1
+pred-words-list
+also 1
+end-of-word-list
+succ-words-list
+any 1
+end-of-word-list
+n-gram
+also there is 
+1
+pred-words-list
+but 1
+end-of-word-list
+succ-words-list
+no 1
+end-of-word-list
+n-gram
+repeat can repeat 
+3
+pred-words-list
+can 3
+end-of-word-list
+succ-words-list
+! 1
+can 2
+end-of-word-list
+n-gram
+can repeat can 
+3
+pred-words-list
+repeat 2
+it 1
+end-of-word-list
+succ-words-list
+repeat 3
+end-of-word-list
+n-gram
+or word test 
+1
+pred-words-list
+qq 1
+end-of-word-list
+succ-words-list
+. 1
+end-of-word-list
+n-gram
+qq or word 
+1
+pred-words-list
+with 1
+end-of-word-list
+succ-words-list
+test 1
+end-of-word-list
+n-gram
+with qq or 
+1
+pred-words-list
+starts 1
+end-of-word-list
+succ-words-list
+word 1
+end-of-word-list
+n-gram
+should starts with 
+1
+pred-words-list
+it 1
+end-of-word-list
+succ-words-list
+qq 1
+end-of-word-list
+n-gram
+with any message 
+1
+pred-words-list
+phrase 1
+end-of-word-list
+succ-words-list
+. 1
+end-of-word-list
+n-gram
+phrase with any 
+1
+pred-words-list
+without 1
+end-of-word-list
+succ-words-list
+message 1
+end-of-word-list
+n-gram
+without phrase with 
+1
+pred-words-list
+starts 1
+end-of-word-list
+succ-words-list
+any 1
+end-of-word-list
+n-gram
+starts without phrase 
+1
+pred-words-list
+text 1
+end-of-word-list
+succ-words-list
+with 1
+end-of-word-list
+n-gram
+text starts without 
+1
+pred-words-list
+test 1
+end-of-word-list
+succ-words-list
+phrase 1
+end-of-word-list
+n-gram
+starts with qq 
+2
+pred-words-list
+should 1
+text 1
+end-of-word-list
+succ-words-list
+or 1
+? 1
+end-of-word-list
+n-gram
+is text starts 
+1
+pred-words-list
+it 1
+end-of-word-list
+succ-words-list
+with 1
+end-of-word-list
+n-gram
+it is text 
+1
+pred-words-list
+, 1
+end-of-word-list
+succ-words-list
+starts 1
+end-of-word-list
+n-gram
+, it is 
+1
+pred-words-list
+therefor 1
+end-of-word-list
+succ-words-list
+text 1
+end-of-word-list
+n-gram
+with word test 
+1
+pred-words-list
+starts 1
+end-of-word-list
+succ-words-list
+. 1
+end-of-word-list
+n-gram
+starts with word 
+1
+pred-words-list
+text 1
+end-of-word-list
+succ-words-list
+test 1
+end-of-word-list
+n-gram
+text starts with 
+2
+pred-words-list
+is 1
+test 1
+end-of-word-list
+succ-words-list
+qq 1
+word 1
+end-of-word-list
+n-gram-list-end 
+n-gram-list 2 
+n-gram
+can repeat ! 
+1
+pred-words-list
+repeat 1
+end-of-word-list
+succ-words-list
+end-of-word-list
+n-gram
+any message . 
+3
+pred-words-list
+no 2
+with 1
+end-of-word-list
+succ-words-list
+end-of-word-list
+n-gram
+with qq ? 
+1
+pred-words-list
+starts 1
+end-of-word-list
+succ-words-list
+end-of-word-list
+n-gram
+word test . 
+2
+pred-words-list
+or 1
+with 1
+end-of-word-list
+succ-words-list
+end-of-word-list
+n-gram-list-end 
